@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on React and Apollo-Client at [Wizikey](https://www.wizikey.com)
-- 🌱 I’m currently learning Webpack, react hooks and GraphQL(sometimes).
+- 🔭 I’m currently working on TypeScript, React and Apollo-Client at [Wizikey](https://www.wizikey.com)
+- 🌱 I’m currently learning Webpack, React Hooks and GraphQL.
 - 👯 I’m looking to collaborate on anything related to web. 
 - 🤔 I’m looking for help with GraphQL.
 - 💬 Ask me about JavaScript, TypeScript and React. 
